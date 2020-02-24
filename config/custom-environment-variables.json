@@ -1,0 +1,12 @@
+{
+  "database": {
+    "connection-string": "database_connectionString"
+  },
+  "auth": {
+    "vendusAPI": "auth_vendusAPI"
+  },
+  "settings": {
+    "location-id": "settings_locationID",
+    "cut-paper": "settings_cutPaper"
+  }
+}

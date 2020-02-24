@@ -1,0 +1,13 @@
+{
+  "title": "CHEF POINT Print",
+  "database": {
+    "connection-string": "env-var"
+  },
+  "auth": {
+    "vendusAPI": "env-var"
+  },
+  "settings": {
+    "location-id": "env-var",
+    "cut-paper": "env-var"
+  }
+}

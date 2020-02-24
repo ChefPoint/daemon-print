@@ -1,0 +1,14 @@
+{
+  "title": "CHEF POINT Print - Dev",
+  "database": {
+    "connection-string": "mongodb://localhost/chefpoint-connect"
+  },
+  "auth": {
+    "vendusAPI": "none-available"
+  },
+  "settings": {
+    "location-id": "test-location",
+    "paper-width": "32",
+    "cut-paper": false
+  }
+}
