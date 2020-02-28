@@ -1,7 +1,7 @@
 {
-  "title": "CHEF POINT Print - Dev",
+  "title": "CHEF POINT Daemon - Print (Dev)",
   "database": {
-    "connection-string": "mongodb://localhost/chefpoint-connect"
+    "connection-string": "mongodb://localhost/chefpoint-daemon"
   },
   "auth": {
     "vendusAPI": "none-available"
