@@ -8,13 +8,11 @@
 /* IMPORTS */
 const config = require("config");
 const escpos = require("escpos");
-const logger = require("../services/logger");
 
 /* * */
 /* THIS FUNCTION WILL CONNECT TO THE PRINTER */
 exports.printDocument = async invoice => {
   // Select the adapter based on your printer type
-  // const device = new escpos.Network("192.168.2.4");
   const device = new escpos.USB();
   const options = { encoding: "ascii" };
   const printer = new escpos.Printer(device, options);

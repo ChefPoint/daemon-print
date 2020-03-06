@@ -4,7 +4,7 @@
     "connection-string": "mongodb://localhost/chefpoint-daemon"
   },
   "auth": {
-    "vendusAPI": "none-available"
+    "vendusAPI": "env-var"
   },
   "settings": {
     "location-id": "test-location",

@@ -1,5 +1,5 @@
 {
-  "title": "CHEF POINT Print",
+  "title": "CHEF POINT Daemon - Print",
   "database": {
     "connection-string": "env-var"
   },
