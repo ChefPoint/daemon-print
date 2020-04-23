@@ -21,15 +21,15 @@
   },
   "homepage": "https://github.com/chefpoint/daemon-print#readme",
   "dependencies": {
-    "config": "^3.3.0",
+    "config": "^3.3.1",
     "escpos": "^2.5.2",
-    "mongoose": "^5.9.3",
+    "mongoose": "^5.9.7",
     "nodemon": "^2.0.2",
-    "npm": "^6.14.2",
+    "npm": "^6.14.4",
     "request": "^2.88.2",
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^25.2.4"
   }
 }
