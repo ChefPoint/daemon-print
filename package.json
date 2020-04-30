@@ -23,13 +23,13 @@
   "dependencies": {
     "config": "^3.3.1",
     "escpos": "^2.5.2",
-    "mongoose": "^5.9.7",
-    "nodemon": "^2.0.2",
+    "mongoose": "^5.9.11",
+    "nodemon": "^2.0.3",
     "npm": "^6.14.4",
     "request": "^2.88.2",
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "jest": "^25.2.4"
+    "jest": "^25.5.2"
   }
 }
